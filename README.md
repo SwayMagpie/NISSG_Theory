@@ -1,4 +1,8 @@
 # Non-Inferential State Sequence Generation (NISSG)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23619774.svg)](https://doi.org/10.5281/zenodo.23619774)
+
+
 ### A Structural Theory of Computation-Free State Sequence Formation
 
 NISSG is a structural theory showing that state sequences can arise  
